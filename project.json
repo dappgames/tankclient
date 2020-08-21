@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "tankclient",
+  "id": "5c3a8b7a-69b0-454e-9006-1d49e4da0d1f",
+  "version": "2.4.2",
+  "isNew": false
+}
