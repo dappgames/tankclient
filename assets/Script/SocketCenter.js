@@ -13,7 +13,7 @@ const cry=require('./utils/cry');
 // const socketUrl='http://sh.suishizhuan.com:10800';
 // const socketUrl='http://api-v1.eosflare.io';
 // const socketUrl='http://localhost:10800';
-const socketUrl='http://30.55.129.115:10800';
+const socketUrl='http://30.55.129.115:10900';
 // const socketUrl='http://47.103.44.252:10800';
 
 
